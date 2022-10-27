@@ -1,0 +1,26 @@
+*{
+    /* padding:0 ;
+    margin:0;
+    box-sizing: border-box; */
+}
+
+
+canvas{
+    /* height: 98vh;
+    width: 98vw;
+    margin: auto; */
+    border: solid thin;
+}
+
+#menu{
+    position: absolute;
+    top:0;
+    right: 0;
+    z-index: 999;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+button{
+    cursor: pointer;
+}
